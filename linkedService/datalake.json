@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://awstoragedatalakeeeee.dfs.core.windows.net/",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJGM0E1QkIxLTUwMzktNENCRi04MUVELTk1OTc4QkNENzc4Ml8xMTIxM2QzNy1hODM0LTQyYTItYmE5Zi1jY2JlNDc1YTU4YTciDQp9"
+			"url": "https://storagespotifyazureproj.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJGM0E1QkIxLTUwMzktNENCRi04MUVELTk1OTc4QkNENzc4Ml84ZTFhY2Y2NS02YTc2LTRhYzItYmRjZC0yZTQzZDI5NDQzZDciDQp9"
 		}
 	}
 }
